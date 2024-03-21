@@ -1,0 +1,73 @@
+---------------------Epoch: 1----------------------
+learning rate: 0.0005
+train loss: 2.96
+val loss: 2.83, distance accuracy: 0.42
+---------------------Epoch: 2----------------------
+learning rate: 0.0005
+train loss: 2.84
+val loss: 2.78, distance accuracy: 0.47
+---------------------Epoch: 3----------------------
+learning rate: 0.0005
+train loss: 2.81
+val loss: 2.76, distance accuracy: 0.45
+---------------------Epoch: 4----------------------
+learning rate: 0.0005
+train loss: 2.79
+val loss: 2.74, distance accuracy: 0.47
+---------------------Epoch: 5----------------------
+learning rate: 0.0005
+train loss: 2.78
+val loss: 2.73, distance accuracy: 0.45
+---------------------Epoch: 6----------------------
+learning rate: 0.0005
+train loss: 2.77
+val loss: 2.72, distance accuracy: 0.45
+---------------------Epoch: 7----------------------
+learning rate: 0.0005
+train loss: 2.76
+val loss: 2.70, distance accuracy: 0.47
+---------------------Epoch: 8----------------------
+learning rate: 0.0005
+train loss: 2.75
+val loss: 2.70, distance accuracy: 0.47
+---------------------Epoch: 9----------------------
+learning rate: 0.0005
+train loss: 2.74
+val loss: 2.71, distance accuracy: 0.46
+---------------------Epoch: 10----------------------
+learning rate: 0.00025
+train loss: 2.73
+val loss: 2.72, distance accuracy: 0.47
+---------------------Epoch: 11----------------------
+learning rate: 0.00025
+train loss: 2.71
+val loss: 2.67, distance accuracy: 0.46
+---------------------Epoch: 12----------------------
+learning rate: 0.00025
+train loss: 2.71
+val loss: 2.69, distance accuracy: 0.46
+---------------------Epoch: 13----------------------
+learning rate: 0.00025
+train loss: 2.70
+val loss: 2.67, distance accuracy: 0.49
+---------------------Epoch: 14----------------------
+learning rate: 0.00025
+train loss: 2.70
+val loss: 2.67, distance accuracy: 0.48
+---------------------Epoch: 15----------------------
+learning rate: 0.000125
+train loss: 2.70
+val loss: 2.67, distance accuracy: 0.48
+---------------------Epoch: 16----------------------
+learning rate: 0.000125
+train loss: 2.68
+val loss: 2.66, distance accuracy: 0.48
+---------------------Epoch: 17----------------------
+learning rate: 0.000125
+train loss: 2.68
+val loss: 2.67, distance accuracy: 0.47
+---------------------Epoch: 18----------------------
+learning rate: 6.25e-05
+train loss: 2.68
+val loss: 2.66, distance accuracy: 0.49
+-------------------early stopped!----------------------
